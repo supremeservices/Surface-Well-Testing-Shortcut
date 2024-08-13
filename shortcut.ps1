@@ -1,4 +1,4 @@
-$shortcutPath = "C:\Users\rbourg\Desktop\Surface Well Testing DVR.url"
+$shortcutPath = "C:\Users\ctrahan\Desktop\Surface Well Testing DVR.url"
 $targetUrl = "http://10.8.4.5:81"
 
 $WScriptShell = New-Object -ComObject WScript.Shell
